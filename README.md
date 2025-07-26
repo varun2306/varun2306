@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate developer from India exploring AI/ML 🇮🇳
+
+🎓 Fresh Computer Science graduate 
+💻 MERN Stack Developer building scalable web applications  
+📊 Data Analyst turning insights into actionable solutions
+🤖 AI/ML enthusiast exploring intelligent solutions
+
+Currently seeking opportunities to contribute, learn, and grow while building impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun2306&label=Profile%20views&color=0e75b6&style=flat" alt="varun2306" /> </p>
 
